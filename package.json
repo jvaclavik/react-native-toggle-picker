@@ -1,0 +1,23 @@
+{
+  "version": "1.0.2",
+  "name": "react-native-toggle-picker",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jvaclavik/react-native-toggle-picker"
+  },
+  "license": "MIT",
+  "main": "./TogglePicker.js",
+  "description": "React Native Toggle Picker is easy wrapper for React Native Picker. It has better user experience on iOS.",
+  "keywords": [
+    "react-component",
+    "react-native",
+    "ios",
+    "android",
+    "toggle",
+    "picker",
+    "select"
+  ],
+  "dependencies": {
+    "react-native-show-hide-toggle-box": "^1.0.1"
+  }
+}
